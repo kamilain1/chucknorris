@@ -38,9 +38,9 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
     git clone https://github.com/kamilain1/chucknorris.git
     ```
 2) Check your flutter environment:
- ```
+    ```
     flutter doctor
- ```
+    ```
 3) After opening project in your IDE get all dependencies:
     ```
     flutter pub get
@@ -55,9 +55,9 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
     flutter run
     ```
 5) OR Build a package using:
-```
+    ```
     flutter build
-```
+    ```
   with one of these parameters: apk, appbundle, ios
 
 ### Get already built APK here

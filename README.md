@@ -62,6 +62,7 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
 
 ### Get already built APK here
 
+[https://github.com/kamilain1/chucknorris/blob/master/app-release.apk](https://github.com/kamilain1/chucknorris/blob/master/app-release.apk)
 
 
 <!-- CONTACTS -->

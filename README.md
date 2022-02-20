@@ -10,6 +10,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
       <ul>
+        <li><a href="#usage">Usage</a></li>
+      </ul>
+      <ul>
         <li><a href="#apk-link">APK link</a></li>
       </ul>
     </li>
@@ -47,7 +50,6 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
     flutter clear
     ```
    
-    
 4) Choose the device (virtual or physical) to run the project and launch:
     ```
     flutter run
@@ -67,6 +69,6 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
 
 Creator - Kamil Agliullin
 
-Project Link: [https://github.com/](https://github.com/kamilain1/chucknorris/)
+Project Link: [https://github.com/kamilain1/chucknorris/](https://github.com/kamilain1/chucknorris/)
 
 

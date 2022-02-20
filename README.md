@@ -32,6 +32,7 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
 
 [Flutter](https://flutter.dev/)
 
+
 ### Usage
 1) Clone the repo:
     ```
@@ -64,6 +65,13 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
 
 [https://github.com/kamilain1/chucknorris/blob/master/app-release.apk](https://github.com/kamilain1/chucknorris/blob/master/app-release.apk)
 
+
+### Screenshots
+
+![HomePage](https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230026.jpg)
+![RandomPage](https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230036.jpg)
+![Categories](https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230045.jpg)
+![Selected](https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230104.jpg)
 
 <!-- CONTACTS -->
 ## Contacts

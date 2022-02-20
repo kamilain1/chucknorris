@@ -15,6 +15,9 @@
       <ul>
         <li><a href="#get-already-built-apk-here">APK link</a></li>
       </ul>
+       <ul>
+        <li><a href="#screenshots">Screenshots</a></li>
+      </ul>
     </li>
     <li><a href="#contacts">Contacts</a></li>
   </ol>

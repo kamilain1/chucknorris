@@ -68,10 +68,10 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
 
 ### Screenshots
 
-<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230026.jpg" height="100"/>
-<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230036.jpg" height="100"/>
-<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230045.jpg" height="100"/>
-<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230104.jpg" height="100"/>
+<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230026.jpg" height="300"/>
+<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230036.jpg" height="300"/>
+<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230045.jpg" height="300"/>
+<img src = "https://github.com/kamilain1/chucknorris/blob/master/Screenshot_20220220-230104.jpg" height="300"/>
 
 <!-- CONTACTS -->
 ## Contacts

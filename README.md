@@ -13,7 +13,7 @@
         <li><a href="#usage">Usage</a></li>
       </ul>
       <ul>
-        <li><a href="#apk-link">APK link</a></li>
+        <li><a href="#get-already-built-apk-here">APK link</a></li>
       </ul>
     </li>
     <li><a href="#contacts">Contacts</a></li>

@@ -42,11 +42,11 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
     ```
     flutter pub get
     ```
-    * In case of problems, try 
+    * In case of problems, try first
     ```
     flutter clear
     ```
-    first.
+   
     
 4) Choose the device (virtual or physical) to run the project and launch:
     ```
@@ -56,7 +56,7 @@ App for displaying funny Chuck Norris facts. Based on chucknorris.io free JSON A
 ```
     flutter build
 ```
-with one of these parameters: apk, appbundle, ios
+  with one of these parameters: apk, appbundle, ios
 
 ### Get already built APK here
 
